@@ -22,6 +22,3 @@ if __name__ == "__main__":
     text_to_type = "YOUR_TEXT_HERE"
     
     type_and_enter(text_to_type)
-
-
-MAKE ME  a description and warning for this
