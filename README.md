@@ -2,7 +2,8 @@
 A tool that automates the repetitive task of typing specific text and hitting Enter at predefined intervals on Windows. The pyautoTypeAndEnter script, powered by Python
 # Requirements:
 > Python - This should be installed in your OS so you can use python commands
-- pyautogui - This is required please install this using:
+Additional Requirements:
+> pyautogui - This is required please install this command in the command prompt:
 ```bash
 pip install pyautogui
 ```
